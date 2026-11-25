@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: sourav-portfolio
+    name: digital-dev-team
     runtime: static
     buildCommand: ""
     staticPublishPath: .
